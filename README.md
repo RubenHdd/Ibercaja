@@ -60,11 +60,11 @@ Este repositorio contiene el material y recursos para el curso **Transformación
 
 - Cuenta en **Power BI Service**.
 - Instalación de **Power BI Desktop** (versión actualizada).
-- **Excel** para integración de datos.
+- Instalación de **Excel** 
 
 ## 📩 Contacto
 
-Si tienes dudas o sugerencias, puedes abrir un **issue** o contactar con el instructor.
+Si tienes dudas o sugerencias, puedes escribir a rubenhdr@gmail.com.
 
 ---
 
