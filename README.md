@@ -55,6 +55,8 @@ Este repositorio contiene el material y recursos para el curso **Transformación
 ## 📂 Estructura del repositorio
 
 - `1 - Introducción a Power BI` → Presentación inicial de la herramienta e introducción a BI.
+- `2 - Introducción a Carga de datos` → Introducción a la carga de datos de diferentes fuentes y Power Query.
+
 
 ## 🚀 Requisitos
 
